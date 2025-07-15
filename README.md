@@ -9,9 +9,9 @@
 ### 👨‍💻 Sobre mí
 
 Estudiante de **2º DAW** con ganas de comerse el mundo (a base de código)  
-💻 Me muevo entre **Java, Python, HTML, CSS, XML y JSON**  
+💻 Me muevo entre **Java, Python, HTML, CSS, XML, JSON, BASH**  
 🗃️ He trabajado con bases de datos como **MySQL** y **Oracle**  
-🐳 Me gusta trastear con **Docker** y tener todo bajo control con **Git**  
+🐳 Me gusta trastear con **Docker** y trabajar ordenadamente con **Git**  
 ☁️ También he trabajado con **Amazon Web Services (AWS)** y máquinas virtuales (EC2, configuraciones básicas de red y despliegue)
   
 🧠 Curioso por naturaleza y siempre aprendiendo  
@@ -30,6 +30,8 @@ Estudiante de **2º DAW** con ganas de comerse el mundo (a base de código)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ---
 
