@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Estudiante de **2º DAW** con ganas de comerse el mundo (a base de código)  
+Estudiante de 2º DAW con hambre de aprender, crecer y formar parte de proyectos que marquen la diferencia.  
 💻 Me muevo entre **Java, Python, HTML, CSS, XML, JSON, BASH**  
 🗃️ He trabajado con bases de datos como **MySQL** y **Oracle**  
 🐳 Me gusta trastear con **Docker** y trabajar ordenadamente con **Git**  
