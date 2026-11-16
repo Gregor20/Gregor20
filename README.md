@@ -19,8 +19,6 @@ Soy un desarrollador (titulado en DAW) enfocado en crear soluciones eficientes. 
 
 Busco siempre optimizar procesos, mantener el código limpio y seguir escalando mi perfil técnico.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gregor20)](https://github.com/stats-organization/github-stats-extended)
-
 ---
 
 ### 🛠️ Stack Tecnológico
